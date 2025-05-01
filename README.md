@@ -1,5 +1,5 @@
 <h1 align="center">Balazs Ralph</h1>
-<h3 align="center">🚀 Développeur — École 42</h3>
+<h3 align="center">🚀 Développer — École 42 PARIS </h3>
 
 
 ---
