@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Balazs Ralph</h1>
+<h3 align="center">🚀 Développeur — École 42</h3>
 
-<!--
-**MortalTrex/MortalTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balazsralph&label=Profile%20views&color=0e75b6&style=flat" alt="balazsralph" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 My languages : **C, Python, C++**
+- 📫 Contact : **balazsra@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 📈 Mes stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balazsralph&show_icons=true&theme=tokyonight" alt="stats balazsralph"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balazsralph&theme=tokyonight" alt="streak balazsralph"/>
+</p>
+
+---
